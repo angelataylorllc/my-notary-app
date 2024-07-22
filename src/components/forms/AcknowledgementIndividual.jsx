@@ -1,4 +1,4 @@
-// src/components/forms/AcknowledgmentIndividual.js
+// src/components/forms/AcknowledgmentIndividual.jsx
 import React from 'react';
 
 const AcknowledgmentIndividual = () => {
